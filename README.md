@@ -1,2 +1,3 @@
-# typescript-jh
-Typescript coreConcept
+# Typescript-jh
+
+Typescript Core Concept
